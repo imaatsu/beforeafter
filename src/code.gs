@@ -4,8 +4,8 @@
  * ========================= */
 
 const CONFIG = {
-  TEMPLATE_ID: '1iTVWkFIFJvZnSWLPHm9GLzd50CapQXBYatA7xowMgxU',
-  OUTPUT_FOLDER_ID: '1cZbNIIv9HazjDoX5y4f8ZkIKfxCQcKG9',
+  TEMPLATE_ID: 'INPUT YOUR TENMPLATE ID',
+  OUTPUT_FOLDER_ID: 'INPUT YOUR FOLDER ID',
   SHEET_NAME: 'フォームの回答 1', // フォーム連携シート名（変えていなければデフォルトこれ）
 
   // フォームの質問タイトル（フォーム側と“完全一致”にする）
