@@ -89,10 +89,10 @@
 ```javascript
 const CONFIG = {
   // テンプレートスライドのID
-  TEMPLATE_ID: '1iTVWkFIFJvZnSWLPHm9GLzd50CapQXBYatA7xowMgxU',
+  TEMPLATE_ID: 'あなたのスライドIDを入力してください',
 
   // 出力先フォルダのID
-  OUTPUT_FOLDER_ID: '1cZbNIIv9HazjDoX5y4f8ZkIKfxCQcKG9',
+  OUTPUT_FOLDER_ID: 'あなたの環境でのフォルダIDを入力してください',
 
   // フォーム連携シート名
   SHEET_NAME: 'フォームの回答 1',
